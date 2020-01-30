@@ -11,4 +11,5 @@ RUN apk add --no-cache git mercurial \
                     github.com/mikespook/gorbac \
                     github.com/abhijitWakchaure/lanmusic/gosrc/logger \
                     github.com/abhijitWakchaure/lanmusic/gosrc/music \
+                    github.com/abhijitWakchaure/lanmusic/gosrc/lmsresponse \
     && apk del git mercurial \
