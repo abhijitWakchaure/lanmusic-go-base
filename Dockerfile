@@ -9,7 +9,4 @@ RUN apk add --no-cache git mercurial \
                     github.com/dgrijalva/jwt-go \
                     golang.org/x/crypto/bcrypt \
                     github.com/mikespook/gorbac \
-                    github.com/abhijitWakchaure/lanmusic/gosrc/logger \
-                    github.com/abhijitWakchaure/lanmusic/gosrc/music \
-                    github.com/abhijitWakchaure/lanmusic/gosrc/lmsresponse \
     && apk del git mercurial \
